@@ -1,0 +1,27 @@
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore database dumps
+*.dump
+
+# Ignore coverage reports
+coverage/
+
+# Ignore build output
+/dist
+/build
+
+# Ignore editor settings
+.vscode/
+.idea/
+
+# Ignore files removed from git tracking
